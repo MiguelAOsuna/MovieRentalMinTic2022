@@ -1,0 +1,7 @@
+servlets\ServletTest.class
+beans\Pelicula.class
+beans\Usuario.class
+beans\Alquiler.class
+servlets\PruebaServlet.class
+test\OperacionesDB.class
+connection\DBConnection.class
